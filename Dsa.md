@@ -51,7 +51,7 @@ dati_1000 = pdr.get_data_yahoo(top_1000, inizio, fine)
 
 ```
 
-Devi modificare solo questa parte il resto non fa tutto in automatico
+Devi modificare solo questa parte il resto lo fa tutto in automatico
 
 
 ```python
